@@ -1,0 +1,5 @@
+﻿  StringLine.cpp
+C:\Users\ateop\source\repos\pr13_GatunovAP_PR20106\pr13_GatunovAP_PR20106\StringLine.cpp(342,7): warning C4101: temp: неиспользованная локальная переменная
+  pr13_GatunovAP_PR20106.cpp
+  Создание кода...
+  pr13_GatunovAP_PR20106.vcxproj -> C:\Users\ateop\source\repos\pr13_GatunovAP_PR20106\Debug\pr13_GatunovAP_PR20106.exe
